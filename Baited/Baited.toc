@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Baited
+## Notes: swear filter
+## Author: Odors
+## Version: 1.0
+## Dependencies:
+## SavedVariables: Baited
+
+Baited.lua
